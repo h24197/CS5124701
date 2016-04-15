@@ -8,6 +8,7 @@
 > keyword以資料量多的為主 => "a"  (/data)  
 > 留下爬下來的JSON所有欄位  
 > 下列以原先資安相關keywords做介紹
+> 檔案過大,故以每100M為單位壓縮成data.zip
 
 ### Data Format
 JSON file:  
